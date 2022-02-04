@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **djonata-dias/djonata-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Djonata 👋 
+## Hi there, I'm Djonata 👋 
 
-## I'm a Husband, Father of Maia(Cat) and Ivi(Big dog) and Developer!!
+## I'm a Husband, Father of Maia(Cat) and Ivi(Big dog) and Web Developer!!
 
 - 🌱 I’m currently learning more about frontend and people management 
 - 👯 I’m looking to collaborate with other web developers
@@ -78,7 +76,7 @@ END_SECTION:activity
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Djonata's GitHub Stats" src="https://github-readme-stats.djonata-dias.vercel.app/api?username=djonata-dias&show_icons=true&hide_border=true" />
+  <img align="left" alt="Djonata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=djonata-dias&show_icons=true&hide_border=true" />
 
 </details>
 
