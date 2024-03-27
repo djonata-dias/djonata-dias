@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Djonata 👋 
 
-## I'm a Husband, Father of the Maia (a Cat) and the Ivi (a Big dog) and Web Developer!!
+## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning more about frontend and people management 
-- 👯 I’m looking to collaborate with other web developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and to deep my knowledge in programming
+- 🌱 I’m currently learning more about Python and Machine Learning 
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2024 Goals: Contribute more to Open Source projects and to deep my knowledge in programming
 - ⚡ Fun fact: I love to make martial arts and to play video games
 
 ### Connect with me:
